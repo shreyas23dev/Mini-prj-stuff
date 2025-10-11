@@ -1,5 +1,5 @@
 #  Methodology: 
-  ## The methodology outlined below presents a systematic, multi-stage approach 
+  The methodology outlined below presents a systematic, multi-stage approach 
 designed to enhance vulnerability prioritization by integrating three critical 
 dimensions of cyber risk: severity (CVSS), exploitability (EPSS), and adversary 
 behavior (MITRE ATT&CK). Each step contributes to the development of a unified 
